@@ -7,7 +7,7 @@ namespace Exerc03_PersonalInformation
         static void Main(String[] args)
         {
             // Faça um algoritmo para imprimir a sua idade, o seu peso e o seu sexo.
-            // Indicar o sexo como sendo: f – feminino ou m – masculino.
+            // Indicar o sexo como sendo: F – feminino ou M – masculino.
 
             // Variable Declaration
             int age = 26;
