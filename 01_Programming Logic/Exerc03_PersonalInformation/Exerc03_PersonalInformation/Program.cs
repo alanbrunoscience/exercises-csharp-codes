@@ -16,7 +16,11 @@ namespace Exerc03_PersonalInformation
 
             // Data Outputs
             Console.WriteLine("======= Personal Data =======");
+            Console.WriteLine("> My Age: " + age + " years old;");
+            Console.WriteLine("> My Weight: " + weight + " Kg;");
+            Console.WriteLine("> My Gender: " + gender + ".");
 
+            Console.ReadLine();
         }
     }
 }
