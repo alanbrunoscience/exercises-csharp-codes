@@ -14,7 +14,7 @@ namespace Exerc03_PersonalInformation
             double weight = 87.7;
             char gender = 'M';
 
-            // Data Outputs
+            // Data Output
             Console.WriteLine("======= Personal Data =======");
             Console.WriteLine("> My Age: " + age + " years old;");
             Console.WriteLine("> My Weight: " + weight + " Kg;");
