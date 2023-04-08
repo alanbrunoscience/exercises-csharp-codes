@@ -14,7 +14,7 @@ namespace Exerc08_RectanglePerimeter
             double perimeter = 2 * (rectangleBase + rectangleHeight);
 
             // Data Output
-            Console.WriteLine("The rectangle perimeter is: " + perimeter.ToString("F2", CultureInfo.InvariantCulture) + " cm." );
+            Console.WriteLine("The rectangle perimeter is: " + perimeter.ToString("F2", CultureInfo.InvariantCulture) + " cm.");
 
             Console.ReadLine();
         }
