@@ -12,6 +12,8 @@ namespace Exerc06_AreaOfASquare
 
             // Data Output
             Console.WriteLine("The area of square is: " + area.ToString("F2", CultureInfo.InvariantCulture) + " m².");
+
+            Console.ReadLine();
         }
     }
 }
