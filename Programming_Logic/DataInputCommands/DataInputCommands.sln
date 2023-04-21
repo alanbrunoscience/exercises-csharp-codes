@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc03_SumOfNumbers", "Exe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc04_AverageGrades", "Exerc04_AverageGrades\Exerc04_AverageGrades.csproj", "{BC2D9319-E0FD-460D-AF8F-A7796153B866}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc05_SalaryCalculation", "Exerc05_SalaryCalculation\Exerc05_SalaryCalculation.csproj", "{86D5564B-FC35-47CA-A261-C36A17C975D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc05_SalaryCalculation", "Exerc05_SalaryCalculation\Exerc05_SalaryCalculation.csproj", "{86D5564B-FC35-47CA-A261-C36A17C975D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc06_TriangleArea", "Exerc06_TriangleArea\Exerc06_TriangleArea.csproj", "{7C99CBEF-E226-4889-94CB-88A6C58405D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc06_TriangleArea", "Exerc06_TriangleArea\Exerc06_TriangleArea.csproj", "{7C99CBEF-E226-4889-94CB-88A6C58405D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc07_ProductOfNumbers", "Exerc07_ProductOfNumbers\Exerc07_ProductOfNumbers.csproj", "{0BE9E102-7979-48E3-AD42-7F8CDE3E6B52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7C99CBEF-E226-4889-94CB-88A6C58405D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C99CBEF-E226-4889-94CB-88A6C58405D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C99CBEF-E226-4889-94CB-88A6C58405D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE9E102-7979-48E3-AD42-7F8CDE3E6B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE9E102-7979-48E3-AD42-7F8CDE3E6B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE9E102-7979-48E3-AD42-7F8CDE3E6B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE9E102-7979-48E3-AD42-7F8CDE3E6B52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
