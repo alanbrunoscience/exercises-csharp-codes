@@ -5,11 +5,15 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc01_GeneralData", "Exerc01_GeneralData\Exerc01_GeneralData.csproj", "{89F50885-BBA2-45B3-9AD8-0B992EA5208F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc02_NameAgeGender", "Exerc02_NameAgeGender\Exerc02_NameAgeGender.csproj", "{2B3178D4-C1CF-405D-A0EA-6F805DB8AACD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc02_NameAgeGender", "Exerc02_NameAgeGender\Exerc02_NameAgeGender.csproj", "{2B3178D4-C1CF-405D-A0EA-6F805DB8AACD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc03_SumOfNumbers", "Exerc03_SumOfNumbers\Exerc03_SumOfNumbers.csproj", "{6246C5DC-CCC1-4063-B1AA-BBAFAD671B49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc03_SumOfNumbers", "Exerc03_SumOfNumbers\Exerc03_SumOfNumbers.csproj", "{6246C5DC-CCC1-4063-B1AA-BBAFAD671B49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc04_AverageGrades", "Exerc04_AverageGrades\Exerc04_AverageGrades.csproj", "{BC2D9319-E0FD-460D-AF8F-A7796153B866}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc04_AverageGrades", "Exerc04_AverageGrades\Exerc04_AverageGrades.csproj", "{BC2D9319-E0FD-460D-AF8F-A7796153B866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc05_SalaryCalculation", "Exerc05_SalaryCalculation\Exerc05_SalaryCalculation.csproj", "{86D5564B-FC35-47CA-A261-C36A17C975D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc06_TriangleArea", "Exerc06_TriangleArea\Exerc06_TriangleArea.csproj", "{7C99CBEF-E226-4889-94CB-88A6C58405D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{BC2D9319-E0FD-460D-AF8F-A7796153B866}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC2D9319-E0FD-460D-AF8F-A7796153B866}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC2D9319-E0FD-460D-AF8F-A7796153B866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D5564B-FC35-47CA-A261-C36A17C975D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D5564B-FC35-47CA-A261-C36A17C975D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D5564B-FC35-47CA-A261-C36A17C975D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D5564B-FC35-47CA-A261-C36A17C975D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C99CBEF-E226-4889-94CB-88A6C58405D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C99CBEF-E226-4889-94CB-88A6C58405D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C99CBEF-E226-4889-94CB-88A6C58405D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C99CBEF-E226-4889-94CB-88A6C58405D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
