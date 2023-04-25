@@ -15,13 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc05_SalaryCalculation",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc06_TriangleArea", "Exerc06_TriangleArea\Exerc06_TriangleArea.csproj", "{7C99CBEF-E226-4889-94CB-88A6C58405D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc07_ProductOfNumbers", "Exerc07_ProductOfNumbers\Exerc07_ProductOfNumbers.csproj", "{0BE9E102-7979-48E3-AD42-7F8CDE3E6B52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc07_ProductOfNumbers", "Exerc07_ProductOfNumbers\Exerc07_ProductOfNumbers.csproj", "{0BE9E102-7979-48E3-AD42-7F8CDE3E6B52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc08_AgeOfPerson", "Exerc08_AgeOfPerson\Exerc08_AgeOfPerson.csproj", "{321D5BFD-1024-41AE-B512-2349BD31A0D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc08_AgeOfPerson", "Exerc08_AgeOfPerson\Exerc08_AgeOfPerson.csproj", "{321D5BFD-1024-41AE-B512-2349BD31A0D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc09_KilowattPrice", "Exerc09_KilowattPrice\Exerc09_KilowattPrice.csproj", "{23E3385A-9EBC-495E-83F4-833674411912}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc09_KilowattPrice", "Exerc09_KilowattPrice\Exerc09_KilowattPrice.csproj", "{23E3385A-9EBC-495E-83F4-833674411912}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc10_MathExpressions", "Exerc10_MathExpressions\Exerc10_MathExpressions.csproj", "{DE06C9B2-C117-4D8B-B2BA-8B20BDA8E49E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exerc10_MathExpressions", "Exerc10_MathExpressions\Exerc10_MathExpressions.csproj", "{DE06C9B2-C117-4D8B-B2BA-8B20BDA8E49E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerc11_LandPrice", "Exerc11_LandPrice\Exerc11_LandPrice.csproj", "{A408C56E-340F-40BE-9B0D-ADE3F522D94C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{DE06C9B2-C117-4D8B-B2BA-8B20BDA8E49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE06C9B2-C117-4D8B-B2BA-8B20BDA8E49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE06C9B2-C117-4D8B-B2BA-8B20BDA8E49E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A408C56E-340F-40BE-9B0D-ADE3F522D94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A408C56E-340F-40BE-9B0D-ADE3F522D94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A408C56E-340F-40BE-9B0D-ADE3F522D94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A408C56E-340F-40BE-9B0D-ADE3F522D94C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
